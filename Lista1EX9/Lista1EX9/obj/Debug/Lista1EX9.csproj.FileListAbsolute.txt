@@ -1,0 +1,7 @@
+C:\Users\pedro\source\repos\Lista1EX9\Lista1EX9\bin\Debug\Lista1EX9.exe.config
+C:\Users\pedro\source\repos\Lista1EX9\Lista1EX9\bin\Debug\Lista1EX9.exe
+C:\Users\pedro\source\repos\Lista1EX9\Lista1EX9\bin\Debug\Lista1EX9.pdb
+C:\Users\pedro\source\repos\Lista1EX9\Lista1EX9\obj\Debug\Lista1EX9.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\Lista1EX9\Lista1EX9\obj\Debug\Lista1EX9.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\Lista1EX9\Lista1EX9\obj\Debug\Lista1EX9.exe
+C:\Users\pedro\source\repos\Lista1EX9\Lista1EX9\obj\Debug\Lista1EX9.pdb
